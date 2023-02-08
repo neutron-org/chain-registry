@@ -40,7 +40,7 @@
       {
         "id": "e2c07e8e6e808fb36cca0fc580e31216772841df",
         "address": "p2p.baryon.ntrn.info:26656",
-        "provider": "Neutron"
+        "provider": "P2P.ORG"
       }
     ],
     "persistent_peers": [
@@ -80,7 +80,7 @@
     "rpc": [
       {
         "address": "https://rpc.baryon.ntrn.info",
-        "provider": "Neutron"
+        "provider": "P2P.ORG"
       },
       {
         "address": "https://rpc.baryon-sentry-01.rs-testnet.polypore.xyz",
@@ -90,7 +90,7 @@
     "rest": [
       {
         "address": "https://rest.baryon.ntrn.info",
-        "provider": "Neutron"
+        "provider": "P2P.ORG"
       },
       {
         "address": "https://rest.baryon-sentry-01.rs-testnet.polypore.xyz",
@@ -100,7 +100,7 @@
     "grpc": [
       {
         "address": "grpc.baryon.ntrn.info:80",
-        "provider": "Neutron"
+        "provider": "P2P.ORG"
       }
     ]
   },
