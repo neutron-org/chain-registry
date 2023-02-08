@@ -22,13 +22,6 @@
       }
     ]
   },
-  "staking": {
-    "staking_tokens": [
-      {
-        "denom": "untrn"
-      }
-    ]
-  },
   "codebase": {
     "git_repo": "https://github.com/neutron-org/neutron",
     "recommended_version": "v0.2.0",
